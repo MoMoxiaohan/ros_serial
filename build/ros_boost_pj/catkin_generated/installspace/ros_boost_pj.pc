@@ -1,0 +1,8 @@
+prefix=/home/liu/桌面/rosdemo/ppce_ws/install
+
+Name: ros_boost_pj
+Description: Description of ros_boost_pj
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 
