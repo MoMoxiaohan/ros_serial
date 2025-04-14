@@ -1,0 +1,5 @@
+<launch>
+    <node name="serial_port_sub" pkg="ros_boost_pj" type="main" output="screen" />
+    <!-- <node name="serial_port_pub" pkg="ros_boost_pj" type="sub" output="screen" /> -->
+
+</launch>

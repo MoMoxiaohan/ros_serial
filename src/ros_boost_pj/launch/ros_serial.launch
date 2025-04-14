@@ -1,0 +1,8 @@
+<launch>
+    <param name="port_name" type="string" value="/dev/ttyUSB0" />
+    <param name="port_rate" type="int" value="115200" />
+    <param name="send_rate" type="int" value="1" />
+    <node pkg="ros_boost_pj" type="main" name="serial_send_message" />
+
+
+</launch>
